@@ -3,13 +3,12 @@ import '../ImageCarousel/ImageCarousel.css';
 
 
 const images = [
-  require('../assets/images/img1.jpeg'),
-  require('../assets/images/img2.jpeg'),
+  require('../assets/images/img1.jpg'),
   require('../assets/images/img2.jpeg'),
   require('../assets/images/img3.jpeg'),
   require('../assets/images/img4.jpeg'),
-  require('../assets/images/img5.jpeg'),
-  require('../assets/images/img6.jpeg'),
+  require('../assets/images/img5.jpg'),
+  require('../assets/images/img6.jpg'),
 ];
 
 
